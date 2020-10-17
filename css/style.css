@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.topside{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #e2dfdf;
+}
+.topside img{
+	width: 180px;
+    margin-top: 15px;
+}
+.center{
+   
+    width: 1050px;
+    margin: auto;
+}
+.mission{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.mission h2{
+    font-size: 36px;
+}
+.has{
+margin-left: auto;
+margin-right: auto;}
+.has img{margin: auto;
+    width: 100%;
+    margin-top: 65px;
+}
+.organize{
+	color: blue;
+}
+.information{
+	color:red;
+}
+.universallyaccessible{
+	color:green;
+}
+.useful{
+	color:orange;
+}
+}
+
+
+.box{
+	margin-top: 45px;
+	 
+   
+}
+
+}
+ .box h1{max-width: 300px;
+	font-size: 90px;
+	 max-width: 500px;
+	 margin-top: 45px;
+	   }
+p{
+	max-width: 1000px;
+    font-size: 14px;
+    margin: 0;
+    padding: 20px 0;
+}
+.bottomsite{
+	color:white;
+	background-color:seagreen;
+	text-align: center;
+	padding: 75px;
+}
+.bottomsite h1{
+	font-size: 43px;
+	font-weight: bold;
+	max-width: 520px;
+	margin: auto;
+}
+
